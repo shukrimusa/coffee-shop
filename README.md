@@ -1,3 +1,2 @@
-"# project8" 
-boxicons.com
-ionic.io/ionicons
+## Coffee Shop
+It is a beautiful single page website focusing on HTML, CSS, and JavaScript.
